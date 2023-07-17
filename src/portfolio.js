@@ -27,16 +27,15 @@ const greeting = {
   resumeLink:
     "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+  githubProfile: "https://github.com/Adromane",
 };
 
 const socialMediaLinks = [
   /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
+  // github: "https://github.com/Adromane",
+  // linkedin: "https://www.linkedin.com/feed/",
   // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
+  // gitlab: "https://github.com/Adromane",
   // twitter: "https://twitter.com/ashutosh_1919",
   // instagram: "https://www.instagram.com/layman_brother/"
 
@@ -61,11 +60,11 @@ const socialMediaLinks = [
   },
   {
     name: "Twitter",
-    link: "https://twitter.com/ashutosh_1919",
+    link: "https://twitter.com/home",
     fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
     backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
   },
-  
+
   {
     name: "Instagram",
     link: "https://www.instagram.com/",
