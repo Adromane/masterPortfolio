@@ -36,6 +36,8 @@ const socialMediaLinks = [
   // linkedin: "https://www.linkedin.com/feed/",
   // gmail: "ashutoshhathidara98@gmail.com",
   // gitlab: "https://github.com/Adromane",
+  // github: "https://github.com/ashutosh1919",
+  // gmail: "ashutoshhathidara98@gmail.com",
   // twitter: "https://twitter.com/ashutosh_1919",
   // instagram: "https://www.instagram.com/layman_brother/"
 
