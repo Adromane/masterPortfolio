@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Patrick Vieira",
   logo_name: "Patrick Vieira",
-  nickname: "layman_brother",
+  nickname: "Patrickvieira",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
