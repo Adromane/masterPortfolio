@@ -33,7 +33,7 @@ const greeting = {
 const socialMediaLinks = [
   /* Your Social Media Link */
   // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
+  // linkedin: "https://www.linkedin.com/feed/",
   // gmail: "ashutoshhathidara98@gmail.com",
   // gitlab: "https://gitlab.com/ashutoshhathidara98",
   // facebook: "https://www.facebook.com/laymanbrother.19/",
