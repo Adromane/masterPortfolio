@@ -372,7 +372,7 @@ const degrees = {
       title: "Université Catholique de l'Afrique de l'Ouest (UCAO)",
       subtitle: "MASTER SPÉCIALISÉ EN INFORMATIQUE DE GESTION",
       logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
+      alt_name: "Institut Supérieur de Gestion Saint Michel",
       duration: "2022-2023",
       descriptions: [
 
