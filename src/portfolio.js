@@ -372,7 +372,7 @@ const degrees = {
       title: "Université Catholique de l'Afrique de l'Ouest (UCAO)",
       subtitle: "MASTER SPÉCIALISÉ EN INFORMATIQUE DE GESTION",
       logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
+      alt_name: "Institut Supérieur de Gestion Saint Michel",
       duration: "2022-2023",
       descriptions: [
 
@@ -380,20 +380,20 @@ const degrees = {
         "⚡ En dehors de cela, j'ai suivi des cours sur les sciences de la programmation telles que HTM, CSS, Node js, React et Js, le cloud computing et le développement Front-end et Backend",
         "⚡ Systèmes de gestion de bases de données : SQL, Oracle, MySQL et Capacité à travailler en équipe et à collaborer avec différents domaines.",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "https://www.st-michel.sn/",
     },
     {
       title: "Université Catholique de l'Afrique de l'Ouest (UCAO)",
       subtitle: "LICENCE PROFESSIONNELLE EN INFORMATIQUE DE GESTION",
-      logo_path: "iu_logo.png",
-      alt_name: "Indiana University Bloomington",
+      logo_path: "Université-logo.png",
+      alt_name: "Institut Supérieur de Gestion Saint Michel",
       duration: "2021 - 2022",
       descriptions: [
         "⚡ J'ai étudié les sujets de base du génie logiciel comme les algorithmes, les SGBD, les systèmes d'exploitation, etc.",
         "⚡ En dehors de cela, j'ai appris les aspects fondamentaux du domaine de l’informatique de gestion, le programme intègre les nouveaux contextes reliés aux domaines des affaires électroniques et l’organisation des entreprises en réseaux informatiques, la gestion spécialisée de bases de données et le développement de sites web.",
         "⚡ Développement et implémentation d'applications Web en utilisant HTML, CSS et JavaScript et Implémentation de fonctionnalités back-end en utilisant PHP et MySQL.",
       ],
-      website_link: "https://www.indiana.edu/",
+      website_link: "https://www.st-michel.sn/",
     },
   ],
 };
