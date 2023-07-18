@@ -386,7 +386,7 @@ const degrees = {
       title: "Université Catholique de l'Afrique de l'Ouest (UCAO)",
       subtitle: "LICENCE PROFESSIONNELLE EN INFORMATIQUE DE GESTION",
       logo_path: "iu_logo.png",
-      alt_name: "Indiana University Bloomington",
+      alt_name: "Institut Supérieur de Gestion Saint Michel",
       duration: "2021 - 2022",
       descriptions: [
         "⚡ J'ai étudié les sujets de base du génie logiciel comme les algorithmes, les SGBD, les systèmes d'exploitation, etc.",
