@@ -391,7 +391,7 @@ const degrees = {
       descriptions: [
         "⚡ J'ai étudié les sujets de base du génie logiciel comme les algorithmes, les SGBD, les systèmes d'exploitation, etc.",
         "⚡ En dehors de cela, j'ai appris les aspects fondamentaux du domaine de l’informatique de gestion, le programme intègre les nouveaux contextes reliés aux domaines des affaires électroniques et l’organisation des entreprises en réseaux informatiques, la gestion spécialisée de bases de données et le développement de sites web.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+        "⚡Implémentation de fonctionnalités back-end en utilisant PHP et MySQL.",
       ],
       website_link: "https://www.indiana.edu/",
     },
