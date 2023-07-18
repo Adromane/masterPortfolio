@@ -386,6 +386,7 @@ const degrees = {
       title: "Université Catholique de l'Afrique de l'Ouest (UCAO)",
       subtitle: "LICENCE PROFESSIONNELLE EN INFORMATIQUE DE GESTION",
       logo_path: "Université-logo.png",
+      logo_path: "iu_logo.png",
       alt_name: "Institut Supérieur de Gestion Saint Michel",
       duration: "2021 - 2022",
       descriptions: [
@@ -499,15 +500,7 @@ const certifications = {
       alt_name: "NPTEL",
       color_code: "#FFBB0099",
     },
-    {
-      title: "Cloud Architecture",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
-      alt_name: "GCP",
-      color_code: "#4285F499",
-    },
+
   ],
 };
 
