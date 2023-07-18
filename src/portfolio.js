@@ -731,7 +731,7 @@ const contactPageData = {
   blogSection: {
     title: "Blogs",
     subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
+      "Pour l'autonomisation fondamentale individuelle, j'aime écrire des leçons puissantes qui créent un impact sur chacun des lecteurs individuellement pour changer le cœur de leur personnage.",
     link: "https://blogs.ashutoshhathidara.com/",
     avatar_image_path: "blogs_image.svg",
   },
