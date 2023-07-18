@@ -382,7 +382,7 @@ const degrees = {
       website_link: "http://iiitk.ac.in",
     },
     {
-      title: "Indiana University Bloomington",
+      title: "Université Catholique de l'Afrique de l'Ouest (UCAO)",
       subtitle: "M.S. in Computer Science",
       logo_path: "iu_logo.png",
       alt_name: "Indiana University Bloomington",
