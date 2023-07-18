@@ -370,7 +370,7 @@ const degrees = {
   degrees: [
     {
       title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
+      subtitle: "MASTER SPÉCIALISÉ EN INFORMATIQUE DE GESTION",
       logo_path: "iiitk_logo.png",
       alt_name: "IIITDM Kurnool",
       duration: "2016 - 2020",
