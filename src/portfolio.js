@@ -369,7 +369,7 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
+      title: "Université Catholique de l'Afrique de l'Ouest (UCAO)",
       subtitle: "MASTER SPÉCIALISÉ EN INFORMATIQUE DE GESTION",
       logo_path: "iiitk_logo.png",
       alt_name: "IIITDM Kurnool",
