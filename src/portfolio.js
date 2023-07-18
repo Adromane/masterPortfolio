@@ -383,7 +383,7 @@ const degrees = {
     },
     {
       title: "Université Catholique de l'Afrique de l'Ouest (UCAO)",
-      subtitle: "M.S. in Computer Science",
+      subtitle: "LICENCE PROFESSIONNELLE EN INFORMATIQUE DE GESTION",
       logo_path: "iu_logo.png",
       alt_name: "Indiana University Bloomington",
       duration: "2021 - 2023",
