@@ -26,7 +26,7 @@ const greeting = {
     "Je suis un(e) étudiant(e) passionné(e) à la recherche d'opportunités de stages pour acquérir une expérience pratique dans mon domaine d'intérêt. Bien que je n'aie pas encore d'expérience professionnelle formelle.",
   resumeLink:
     "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+  portfolio_repository: "https://github.com/Adromane",
   githubProfile: "https://github.com/Adromane",
 };
 
