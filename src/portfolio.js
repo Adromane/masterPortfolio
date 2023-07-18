@@ -375,6 +375,7 @@ const degrees = {
       alt_name: "IIITDM Kurnool",
       duration: "2022-2023",
       descriptions: [
+
         "⚡ J'ai étudié les sujets de base du génie logiciel comme les algorithmes, les SGBD, les systèmes d'exploitation, etc.",
         "⚡ En dehors de cela, j'ai suivi des cours sur les sciences de la programmation telles que HTM, CSS, Node js, React et Js, le cloud computing et le développement Front-end et Backend",
         "⚡ Systèmes de gestion de bases de données : SQL, Oracle, MySQL et Capacité à travailler en équipe et à collaborer avec différents domaines.",
