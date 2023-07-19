@@ -635,7 +635,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
      "Pour l'autonomisation fondamentale individuelle, j'aime écrire des leçons puissantes qui créent un impact sur chacun des lecteurs individuellement pour changer le cœur de leur personnage.",
-    link: "https://blogs.Vie.pnd",
+    link: "https://blogs.ashutoshhathidara.com/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
