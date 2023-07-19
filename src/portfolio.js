@@ -403,7 +403,7 @@ const certifications = {
   certifications: [
     {
       
-      subtitle: "- Andrew Ng",
+      
       logo_path: "stanford_logo.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
