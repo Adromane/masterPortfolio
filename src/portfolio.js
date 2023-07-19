@@ -312,7 +312,7 @@ const skills = {
   ],
 };
 
-// Education Page
+// Formation Page
 const competitiveSites = {
   competitiveSites: [
     {
@@ -635,7 +635,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
      "Pour l'autonomisation fondamentale individuelle, j'aime écrire des leçons puissantes qui créent un impact sur chacun des lecteurs individuellement pour changer le cœur de leur personnage.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    link: "https://blogs.Vie.pnd",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
