@@ -418,11 +418,7 @@ const experience = {
   title: "Experience",
   subtitle: "Travail, stage et volontariat",
   description:
-<<<<<<< HEAD
     "J'ai toujours fait de mon mieux pour me mettre à jour et rester au fait des nouvelles technologies, J'adore organiser des événements et c'est pourquoi je suis également impliqué dans de nombreuses communautés opensource en tant que représentant..",
-=======
-    "J'ai toujours fait de mon mieux pour me mettre à jour et rester au fait des nouvelles technologies,J'adore organiser des événements et c'est pourquoi je suis également impliqué dans de nombreuses communautés opensource en tant que représentant.",
->>>>>>> a2235d8ad9622e51ae56ebd76ba9d8652798383e
   header_image_path: "experience.svg",
   sections: [
     {
