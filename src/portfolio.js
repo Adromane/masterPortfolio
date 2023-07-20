@@ -418,7 +418,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "J'ai toujours fait de mon mieux pour me mettre à jour et rester au fait des nouvelles technologies,qui ont le vent en poupe sur le marché des entreprises.Depuis que j'ai commencé à étudier ma première langue à l'école. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "J'ai toujours fait de mon mieux pour me mettre à jour et rester au fait des nouvelles technologies,qui ont le vent en poupe sur le marché des entreprises.Depuis que j'ai commencé à étudier ma première langue à l'école (HTML,CSS JS, PHP)..",
   header_image_path: "experience.svg",
   sections: [
     {
