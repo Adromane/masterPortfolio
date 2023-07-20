@@ -79,9 +79,9 @@ const skills = {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Développement de sites Web réactifs à l'aide de frameworks tels que Bootstrap.",
+        "⚡ Capacité à travailler en équipe et à collaborer avec différents domaines.",
+        "⚡ Optimisation du site Web pour améliorer la vitesse de chargement et l'expérience utilisateur.",
       ],
       softwareSkills: [
         {
@@ -416,9 +416,9 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  subtitle: "Travail, stage et volontariat",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "J'ai toujours fait de mon mieux pour me mettre à jour et rester au fait des nouvelles technologies, J'adore organiser des événements et c'est pourquoi je suis également impliqué dans de nombreuses communautés opensource en tant que représentant..",
   header_image_path: "experience.svg",
   sections: [
     {
