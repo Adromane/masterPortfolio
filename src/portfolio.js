@@ -416,7 +416,7 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  subtitle: "Travail, stage et volontariat",
   description:
     "J'ai toujours fait de mon mieux pour me mettre à jour et rester au fait des nouvelles technologies,J'adore organiser des événements et c'est pourquoi je suis également impliqué dans de nombreuses communautés opensource en tant que représentant.",
   header_image_path: "experience.svg",
