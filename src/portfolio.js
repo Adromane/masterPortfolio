@@ -81,7 +81,7 @@ const skills = {
       skills: [
         "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
         "⚡ Capacité à travailler en équipe et à collaborer avec différents domaines",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Optimisation du site Web pour améliorer la vitesse de chargement et l'expérience utilisateur.",
       ],
       softwareSkills: [
         {
