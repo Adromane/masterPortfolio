@@ -316,7 +316,6 @@ const skills = {
 const competitiveSites = {
   competitiveSites: [
     {
-
     },
   ],
 };
@@ -341,7 +340,7 @@ const degrees = {
       title: "Université Catholique de l'Afrique de l'Ouest (UCAO)",
       subtitle: "LICENCE PROFESSIONNELLE EN INFORMATIQUE DE GESTION",
       logo_path: "Université-logo.png",
-      logo_path: "1622120545040-removebg-preview.png",
+      logo_path: "1622120545040-removebg-preview.png", 
       alt_name: "Institut Supérieur de Gestion Saint Michel",
       duration: "2021 - 2022",
       descriptions: [
