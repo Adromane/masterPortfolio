@@ -206,10 +206,10 @@ const skills = {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Expérience de travail sur plusieurs plates-formes cloud",
+        "⚡ Hébergement et maintenance de sites Web sur des instances de machines virtuelles avec intégration de bases de données",
+        "⚡ Déploiement de modèles d'apprentissage en profondeur sur le cloud à utiliser sur les appareils mobiles",
+        "⚡ Mise en place de la base de données au serveur.",
       ],
       softwareSkills: [
         {
