@@ -209,7 +209,7 @@ const skills = {
         "⚡ Expérience de travail sur plusieurs plates-formes cloud",
         "⚡Hébergement et maintenance de sites Web sur des instances de machines virtuelles avec intégration de bases de données",
         "⚡ Déploiement de modèles d'apprentissage en profondeur sur le cloud à utiliser sur les appareils mobiles",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Configuration des tâches de streaming de la base de données au serveur ou vice-versa sur GCP et AWS",
       ],
       softwareSkills: [
         {
