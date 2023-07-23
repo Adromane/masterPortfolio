@@ -124,9 +124,9 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Création d'un site Web réactif avec React-Redux",
+        "⚡ Développement d'applications mobiles à l'aide de Flutter, React Native et d'applications Android solo à l'aide de Kotlin",
+        "⚡Création du backend de l'application dans Node, Express & Flask",
       ],
       softwareSkills: [
         {
