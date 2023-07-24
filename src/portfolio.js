@@ -595,7 +595,7 @@ const contactPageData = {
   addressSection: {
     title: "Address",
     subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+      "Fass Delorme, Dakar - SENEGAL",
     locality: "Kanodar",
     country: "IN",
     region: "Gujarat",
