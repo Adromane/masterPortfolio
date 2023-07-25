@@ -360,7 +360,7 @@ const certifications = {
       
       logo_path: "stanford_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
+        "https://www.coursera.org/account/accomplishments/verify22MTSSC5WDTM",
       alt_name: "Stanford University",
 
     },
@@ -595,18 +595,18 @@ const contactPageData = {
   addressSection: {
     title: "Address",
     subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+      "Fass Delorme, Dakar - SENEGAL",
     locality: "Kanodar",
     country: "IN",
     region: "Gujarat",
     postalCode: "385520",
     streetAddress: "Ambavadi vas",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link: "https://goo.gl/maps/e7kpWNbWvgfK98t88",
   },
   phoneSection: {
-    title: "",
-    subtitle: "",
+    title: "Número de telefone",
+    subtitle: "+221773657056",
   },
 };
 
