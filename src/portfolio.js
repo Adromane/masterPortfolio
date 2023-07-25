@@ -606,7 +606,7 @@ const contactPageData = {
   },
   phoneSection: {
     title: "Número de telefone",
-    subtitle: "",
+    subtitle: "+221773657056",
   },
 };
 
