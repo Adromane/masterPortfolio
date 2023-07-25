@@ -602,7 +602,7 @@ const contactPageData = {
     postalCode: "385520",
     streetAddress: "Ambavadi vas",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link: "https://goo.gl/maps/e7kpWNbWvgfK98t88",
   },
   phoneSection: {
     title: "",
