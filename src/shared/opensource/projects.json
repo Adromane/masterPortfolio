@@ -31,7 +31,7 @@
       "name": "explainable-cnn",
       "createdAt": "2022-03-13T20:41:33Z",
       "url": "https://github.com/Adromane/API-github",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "description": "📦 Ce projet en ReactJS était un projet pour lequel j'ai utilisé tous les fondamentaux avancés que j'ai appris de cette Lib, en utilisant des États, des Props, des Composants, etc., en plus de mes connaissances en JavaScript, HTML et CSS. Dans la partie Front End, j'ai développé le style à l'aide des composants stylisés. En ce qui concerne la demande d'API GitHub, j'ai utilisé Axios pour obtenir des données de cette API de manière asynchrone et enregistrer toutes ces données, telles que les informations utilisateur et les référentiels, dans une variable d'état au sein d'un composant fonctionnel..",
       "isFork": false,
       "languages": [
         {
