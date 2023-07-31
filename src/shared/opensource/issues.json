@@ -1065,18 +1065,18 @@
       }
     },
     {
-      "id": "MDU6SXNzdWU1OTE2NjAzNTE=",
+      "id": "",
       "closed": true,
-      "title": "Add Animations to Pinned Projects ",
-      "createdAt": "2020-04-01T06:24:47Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio/issues/1",
+      "title": " ",
+      "createdAt": "",
+      "url": "",
       "number": 1,
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "masterPortfolio",
-        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "name": "",
+        "url": "",
         "owner": {
           "login": "ashutosh1919",
           "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
@@ -1273,32 +1273,32 @@
         "nodes": []
       },
       "repository": {
-        "name": "lofo-importance",
-        "url": "https://github.com/aerdem4/lofo-importance",
+        "name": "",
+        "url": "",
         "owner": {
-          "login": "aerdem4",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/24624210?u=58887e9c09a3c0576a8ce61ba881132ebf4c137c&v=4",
-          "url": "https://github.com/aerdem4"
+          "login":"",
+          "avatarUrl": "",
+          "url": ""
         }
       }
     },
     {
-      "id": "MDU6SXNzdWU0ODI4MTcwNjE=",
+      "id": "",
       "closed": false,
-      "title": "Setup Readme file in proper format",
-      "createdAt": "2019-08-20T11:58:49Z",
-      "url": "https://github.com/NebutechOpenSource/MLGen/issues/1",
+      "title": "",
+      "createdAt": "",
+      "url": "",
       "number": 1,
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "MLGen",
-        "url": "https://github.com/NebutechOpenSource/MLGen",
+        "name": "",
+        "url": "",
         "owner": {
-          "login": "NebutechOpenSource",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/53137955?u=2abe60da5dfbd4b442e415e6c553f58a21cf9547&v=4",
-          "url": "https://github.com/NebutechOpenSource"
+          "login": "",
+          "avatarUrl": "",
+          "url": ""
         }
       }
     }

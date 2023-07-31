@@ -2,94 +2,94 @@
   "closed": 33,
   "data": [
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDA5NDQxNDk1",
-      "title": "Migrated some files from TF 1.0 to 2.0",
-      "url": "https://github.com/tensorflow/addons/pull/1746",
-      "state": "OPEN",
+      "id": "",
+      "title": "",
+      "url": "",
+      "state": "",
       "mergedBy": null,
-      "createdAt": "2020-04-27T11:34:31Z",
+      "createdAt": "",
       "number": 1746,
       "changedFiles": 2,
       "additions": 1,
       "deletions": 6,
       "baseRepository": {
-        "name": "addons",
-        "url": "https://github.com/tensorflow/addons",
+        "name": "",
+        "url": "",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
+          "avatarUrl": "",
+          "login": "",
+          "url": ""
         }
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDA5MDU3MDUz",
-      "title": "Added tutorial notebooks for Focal and Contrastive losses",
-      "url": "https://github.com/tensorflow/addons/pull/1732",
-      "state": "CLOSED",
+      "id": "",
+      "title": "",
+      "url": "",
+      "state": "",
       "mergedBy": null,
-      "createdAt": "2020-04-26T10:17:22Z",
+      "createdAt": "",
       "number": 1732,
       "changedFiles": 2,
       "additions": 567,
       "deletions": 0,
       "baseRepository": {
-        "name": "addons",
-        "url": "https://github.com/tensorflow/addons",
+        "name": "",
+        "url": "",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
+          "avatarUrl": "",
+          "login": "",
+          "url": ""
         }
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDA4OTAxNTAy",
-      "title": "Fixed CyclicLearningRate and its tests' errors",
-      "url": "https://github.com/tensorflow/addons/pull/1729",
-      "state": "MERGED",
+      "id": "",
+      "title": "",
+      "url": "",
+      "state": "",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/18154355?u=7bcba6c98d214c5935b46334ec888b43893f3b89&v=4",
-        "url": "https://github.com/seanpmorgan",
-        "login": "seanpmorgan"
+        "avatarUrl": "",
+        "url": "",
+        "login": ""
       },
-      "createdAt": "2020-04-25T12:33:41Z",
+      "createdAt": "",
       "number": 1729,
       "changedFiles": 2,
       "additions": 60,
       "deletions": 12,
       "baseRepository": {
-        "name": "addons",
-        "url": "https://github.com/tensorflow/addons",
+        "name": "",
+        "url": "",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
+          "avatarUrl": "",
+          "login": "",
+          "url": ""
         }
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0NDA4ODY0NDU1",
-      "title": "Added serializability tests in all optimizers and fixed serializability bug in yogi",
-      "url": "https://github.com/tensorflow/addons/pull/1728",
-      "state": "MERGED",
+      "id": "",
+      "title": "",
+      "url": "",
+      "state": "",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/18154355?u=7bcba6c98d214c5935b46334ec888b43893f3b89&v=4",
-        "url": "https://github.com/seanpmorgan",
-        "login": "seanpmorgan"
+        "avatarUrl": "",
+        "url": "",
+        "login": ""
       },
-      "createdAt": "2020-04-25T07:19:04Z",
+      "createdAt": "",
       "number": 1728,
       "changedFiles": 10,
       "additions": 80,
       "deletions": 2,
       "baseRepository": {
-        "name": "addons",
-        "url": "https://github.com/tensorflow/addons",
+        "name": "",
+        "url": "",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
-          "login": "tensorflow",
-          "url": "https://github.com/tensorflow"
+          "avatarUrl": "",
+          "login": "",
+          "url": ""
         }
       }
     },
@@ -2142,131 +2142,131 @@
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzAxMTE4NDY2",
-      "title": "Removed Unnecessary imports",
-      "url": "https://github.com/C-Aniruddh/DeepConversation/pull/1",
-      "state": "CLOSED",
+      "id": "",
+      "title": "",
+      "url": "",
+      "state": "",
       "mergedBy": null,
-      "createdAt": "2019-07-25T12:21:04Z",
+      "createdAt": "",
       "number": 1,
       "changedFiles": 1,
       "additions": 0,
       "deletions": 2,
       "baseRepository": {
-        "name": "DeepConversation",
-        "url": "https://github.com/C-Aniruddh/DeepConversation",
+        "name": "",
+        "url": "",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/6713004?u=805b5777ff6b00f95e9aecf1f848622eeec84ff9&v=4",
-          "login": "C-Aniruddh",
-          "url": "https://github.com/C-Aniruddh"
+          "avatarUrl": "",
+          "login": "",
+          "url": ""
         }
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzAxMDg1Mzc5",
-      "title": "Removed Unnecessary import",
-      "url": "https://github.com/facebook/FAI-PEP/pull/326",
-      "state": "CLOSED",
+      "id": "",
+      "title": "",
+      "url": "",
+      "state": "",
       "mergedBy": null,
-      "createdAt": "2019-07-25T10:42:49Z",
+      "createdAt": "",
       "number": 326,
       "changedFiles": 1,
       "additions": 0,
       "deletions": 1,
       "baseRepository": {
-        "name": "FAI-PEP",
-        "url": "https://github.com/facebook/FAI-PEP",
+        "name": "",
+        "url": "",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/69631?v=4",
-          "login": "facebook",
-          "url": "https://github.com/facebook"
+          "avatarUrl": "",
+          "login": "",
+          "url": ""
         }
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzAxMDY1ODY4",
-      "title": "Replaced Depricated tf.contrib.deprecated.scalar_summary with tf.compat.v1.summary.scalar",
-      "url": "https://github.com/google/mentornet/pull/7",
-      "state": "MERGED",
+      "id": "",
+      "title": "",
+      "url": "",
+      "state": "",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/13424689?u=5a623978c86d2ffb6f5c46764cf57e71c5ced884&v=4",
-        "url": "https://github.com/roadjiang",
-        "login": "roadjiang"
+        "avatarUrl": "",
+        "url": "",
+        "login": ""
       },
-      "createdAt": "2019-07-25T09:48:38Z",
+      "createdAt": "",
       "number": 7,
       "changedFiles": 2,
       "additions": 3,
       "deletions": 2,
       "baseRepository": {
-        "name": "mentornet",
-        "url": "https://github.com/google/mentornet",
+        "name": "",
+        "url": "",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1342004?v=4",
-          "login": "google",
-          "url": "https://github.com/google"
+          "avatarUrl": "",
+          "login": "",
+          "url": ""
         }
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0MzAxMDA1NDA3",
-      "title": "Replaced Depricated tf.contrib.deprecated.scalar_summary with tf.compat.v1.summary.scalar",
-      "url": "https://github.com/google/mentornet/pull/6",
-      "state": "CLOSED",
+      "id": "",
+      "title": "",
+      "url": "",
+      "state": "",
       "mergedBy": null,
-      "createdAt": "2019-07-25T06:48:42Z",
+      "createdAt": "",
       "number": 6,
       "changedFiles": 2,
       "additions": 2,
       "deletions": 2,
       "baseRepository": {
-        "name": "mentornet",
-        "url": "https://github.com/google/mentornet",
+        "name": "",
+        "url": "",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1342004?v=4",
-          "login": "google",
-          "url": "https://github.com/google"
+          "avatarUrl": "",
+          "login": "",
+          "url": ""
         }
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mjk5NjIwNDQx",
-      "title": "Quantile Huber Loss to predict Specific Quantile Value",
-      "url": "https://github.com/keras-team/keras/pull/13129",
-      "state": "CLOSED",
+      "id": "",
+      "title": "",
+      "url": "",
+      "state": "",
       "mergedBy": null,
-      "createdAt": "2019-07-21T08:44:09Z",
+      "createdAt": "",
       "number": 13129,
       "changedFiles": 7,
       "additions": 133,
       "deletions": 70,
       "baseRepository": {
-        "name": "keras",
-        "url": "https://github.com/keras-team/keras",
+        "name": "",
+        "url": "",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/34455048?v=4",
-          "login": "keras-team",
-          "url": "https://github.com/keras-team"
+          "avatarUrl": "",
+          "login": "",
+          "url": ""
         }
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mjk3MzIzMjcz",
-      "title": "Huber Loss Function for both kind of behavior. ",
-      "url": "https://github.com/keras-team/keras/pull/13104",
-      "state": "CLOSED",
+      "id": "",
+      "title": " ",
+      "url": "",
+      "state": "",
       "mergedBy": null,
-      "createdAt": "2019-07-13T15:14:42Z",
+      "createdAt": "",
       "number": 13104,
       "changedFiles": 2,
       "additions": 22,
       "deletions": 0,
       "baseRepository": {
-        "name": "keras",
-        "url": "https://github.com/keras-team/keras",
+        "name": "",
+        "url": "",
         "owner": {
           "avatarUrl": "",
-          "login": "keras-team",
+          "login": "",
           "url": ""
         }
       }
