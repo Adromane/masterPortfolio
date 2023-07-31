@@ -2265,55 +2265,55 @@
         "name": "keras",
         "url": "https://github.com/keras-team/keras",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/34455048?v=4",
+          "avatarUrl": "",
           "login": "keras-team",
-          "url": "https://github.com/keras-team"
+          "url": ""
         }
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0Mjg4NTMyMzQz",
-      "title": "RC Details",
-      "url": "https://github.com/abhinavhinger12/ala/pull/2",
-      "state": "MERGED",
+      "id": "",
+      "title": "",
+      "url": "",
+      "state": "",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
-        "url": "https://github.com/ashutosh1919",
-        "login": "ashutosh1919"
+        "avatarUrl": "",
+        "url": "",
+        "login": ""
       },
-      "createdAt": "2019-06-15T05:19:37Z",
+      "createdAt": "",
       "number": 2,
       "changedFiles": 3,
       "additions": 555,
       "deletions": 0,
       "baseRepository": {
-        "name": "ala",
-        "url": "https://github.com/abhinavhinger12/ala",
+        "name": "",
+        "url": "",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/4638215?u=9c8d81f075a4206c9ce6386e7a97babce38c1037&v=4",
-          "login": "abhinavhinger12",
-          "url": "https://github.com/abhinavhinger12"
+          "avatarUrl": "",
+          "login": "",
+          "url": ""
         }
       }
     },
     {
-      "id": "MDExOlB1bGxSZXF1ZXN0MjQzMzQxOTg5",
-      "title": "Face Verification and Recognition",
-      "url": "https://github.com/trekhleb/homemade-machine-learning/pull/14",
-      "state": "CLOSED",
+      "id": "",
+      "title": "",
+      "url": "",
+      "state": "",
       "mergedBy": null,
-      "createdAt": "2019-01-09T13:56:53Z",
+      "createdAt": "",
       "number": 14,
       "changedFiles": 268,
       "additions": 1419,
       "deletions": 1,
       "baseRepository": {
-        "name": "homemade-machine-learning",
-        "url": "https://github.com/trekhleb/homemade-machine-learning",
+        "name": "",
+        "url": "",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/3000285?u=1e62782f227030b78b7aa78cbbcab5f8a24e658a&v=4",
-          "login": "trekhleb",
-          "url": "https://github.com/trekhleb"
+          "avatarUrl": "",
+          "login": "",
+          "url": ""
         }
       }
     }
