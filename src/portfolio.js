@@ -372,7 +372,7 @@ const experience = {
   title: "Experience",
   subtitle: "Travail, stage et volontariat",
   description:
-    "C'est avec une grande satisfaction que je vous présente mon projet, fruit de ma passion inébranlable pour l'innovation technologique et de mon engagement à suivre de près les tendances émergentes du monde professionnel. Mon parcours de programmation a commencé avec HTML, CSS et JS à l'école, mais mon désir insatiable de connaissances m'a amené à explorer les langages Java et Python...",
+    "Mon apprentissage autodidacte m'a permis de maîtriser diverses technologies, notamment [liste des technologies ou outils pertinents]. Travailler de manière autonome m'a permis de développer une discipline personnelle, de résoudre des problèmes par moi-même et d'approfondir mon savoir-faire technique...",
   header_image_path: "experience.svg",
   sections: [
     {
