@@ -372,7 +372,7 @@ const experience = {
   title: "Experience",
   subtitle: "Travail, stage et volontariat",
   description:
-    "J'ai toujours fait de mon mieux pour me mettre à jour et rester au fait des nouvelles technologies, J'adore organiser des événements et c'est pourquoi je suis également impliqué dans de nombreuses communautés opensource en tant que représentant..",
+    "C'est avec une grande satisfaction que je vous présente mon projet, fruit de ma passion inébranlable pour l'innovation technologique et de mon engagement à suivre de près les tendances émergentes du monde professionnel. Mon parcours de programmation a commencé avec HTML, CSS et JS à l'école, mais mon désir insatiable de connaissances m'a amené à explorer les langages Java et Python.",
   header_image_path: "experience.svg",
   sections: [
     {
