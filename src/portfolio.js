@@ -517,7 +517,7 @@ const experience = {
   ],
 };
 
-// Projects Page
+// Projets Page
 const projectsHeader = {
   title: "Projects",
   description:
