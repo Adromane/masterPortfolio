@@ -312,7 +312,7 @@ const skills = {
   ],
 };
 
-// Formation Page
+// formation Page
 const competitiveSites = {
   competitiveSites: [
     {
@@ -526,21 +526,21 @@ const projectsHeader = {
 };
 
 const publicationsHeader = {
-  title: "Publications",
+  title: "",
   description:
-    "I have worked on and published a few research papers and publications of my own.",
-  avatar_image_path: "projects_image.svg",
+    "",
+  avatar_image_path: "",
 };
 
-const publications = {
+  {
   data: [
     {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
+      id: "",
+      name: "",
+      createdAt: "",
+      description: "",
       url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+        "",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
