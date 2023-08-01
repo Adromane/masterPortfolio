@@ -372,7 +372,7 @@ const experience = {
   title: "Experience",
   subtitle: "Travail, stage et volontariat",
   description:
-    "J'ai toujours fait de mon mieux pour me mettre à jour et rester au fait des nouvelles technologies, J'adore organiser des événements et c'est pourquoi je suis également impliqué dans de nombreuses communautés opensource en tant que représentant..",
+    "C'est avec une grande satisfaction que je vous présente mon projet, fruit de ma passion inébranlable pour l'innovation technologique et de mon engagement à suivre de près les tendances émergentes du monde professionnel. Mon parcours de programmation a commencé avec HTML, CSS et JS à l'école, mais mon désir insatiable de connaissances m'a amené à explorer les langages Java et Python...",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -517,11 +517,11 @@ const experience = {
   ],
 };
 
-// Projects Page
+// Projets Page
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "Permettez-moi de vous présenter mon projet passionnant qui allie innovation, créativité et expertise technique. Mon projet vise à [objectif principal du projet], en utilisant [méthodes ou technologies spécifiques] pour apporter une solution unique et efficace.",
   avatar_image_path: "projects_image.svg",
 };
 
