@@ -302,7 +302,7 @@ const skills = {
         },
         {
           skillName: "",
-          fontAwesomeClassname: "simple-icons:inkscape",
+          fontAwesomeClassname: "",
           style: {
             color: "#000000",
           },
