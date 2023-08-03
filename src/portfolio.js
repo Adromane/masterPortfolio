@@ -276,7 +276,7 @@ const skills = {
       skills: [
         "⚡ Concevoir une interface utilisateur très attrayante pour les applications mobiles et Web",
         "⚡ Personnaliser les conceptions de logo et créer des logos à partir de zéro",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
+        "⚡ Créer le flux des fonctionnalités de l'application pour optimiser l'expérience utilisateur",
       ],
       softwareSkills: [
         {
