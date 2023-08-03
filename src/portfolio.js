@@ -274,8 +274,8 @@ const skills = {
       title: "UI/UX Design",
       fileName: "DesignImg",
       skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
+        "⚡ Concevoir une interface utilisateur très attrayante pour les applications mobiles et Web",
+        "⚡ Personnaliser les conceptions de logo et créer des logos à partir de zéro",
         "⚡ Creating the flow of application functionalities to optimize user experience",
       ],
       softwareSkills: [
