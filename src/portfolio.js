@@ -274,9 +274,9 @@ const skills = {
       title: "UI/UX Design",
       fileName: "DesignImg",
       skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
+        "⚡ Concevoir une interface utilisateur très attrayante pour les applications mobiles et Web",
+        "⚡ Personnaliser les conceptions de logo et créer des logos à partir de zéro",
+        "⚡ Créer le flux des fonctionnalités de l'application pour optimiser l'expérience utilisateur",
       ],
       softwareSkills: [
         {
@@ -301,8 +301,8 @@ const skills = {
           },
         },
         {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
+          skillName: "",
+          fontAwesomeClassname: "",
           style: {
             color: "#000000",
           },
@@ -380,20 +380,20 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
+          title: "Front End et Backend Web Developer",
+          company: "Dev",
           company_url: "https://legatohealthtech.com/",
           logo_path: "legato_logo.png",
-          duration: "June 2020 - Aug 2021",
-          location: "Hyderabad, Telangana",
+          duration: "June 2020 - actuelment",
+          location: "Remote",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "Je suis constamment en train d'apprendre et de me former sur les dernières technologies front-end et back-end, pour rester à jour avec les meilleures pratiques de développement web.",
           color: "#0879bf",
         },
         {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
-          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
+          title: "",
+          company: "",
+          company_url: "",
           logo_path: "muffito_logo.png",
           duration: "May 2018 - Oct 2018",
           location: "Pune, Maharashtra",
