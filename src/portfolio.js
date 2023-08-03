@@ -380,7 +380,7 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Associate AI Engineer",
+          title: "Front End et Backend Web Developer",
           company: "Legato Health Technology",
           company_url: "https://legatohealthtech.com/",
           logo_path: "legato_logo.png",
