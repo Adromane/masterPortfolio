@@ -384,7 +384,7 @@ const experience = {
           company: "Dev",
           company_url: "https://legatohealthtech.com/",
           logo_path: "legato_logo.png",
-          duration: "June 2020 - Aug 2021",
+          duration: "June 2020 -actuellement",
           location: "Hyderabad, Telangana",
           description:
             "Je suis constamment en train d'apprendre et de me former sur les dernières technologies front-end et back-end, pour rester à jour avec les meilleures pratiques de développement web.",
