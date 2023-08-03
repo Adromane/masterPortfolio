@@ -381,7 +381,7 @@ const experience = {
       experiences: [
         {
           title: "Front End et Backend Web Developer",
-          company: "Legato Health Technology",
+          company: "Dev",
           company_url: "https://legatohealthtech.com/",
           logo_path: "legato_logo.png",
           duration: "June 2020 - Aug 2021",
