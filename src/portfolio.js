@@ -395,7 +395,7 @@ const experience = {
           company: "",
           company_url: "",
           logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
+          duration: "May 2020-actuelment",
           location: "Remote",
           description:
             "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
