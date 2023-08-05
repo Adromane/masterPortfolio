@@ -376,14 +376,14 @@ const experience = {
   header_image_path: "experience.svg",
   sections: [
     {
-      title: "Work",
+      title: "Travail",
       work: true,
       experiences: [
         {
           title: "Front End et Backend Web Developer",
           company: "Dev",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
+          company_url: "https://www.devcom-guyane.fr/contact/",
+          logo_path: "DEV_logo",
           duration: "June 2020 - actuelment",
           location: "Remote",
           description:
@@ -395,8 +395,8 @@ const experience = {
           company: "",
           company_url: "",
           logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
+          duration: "May 2020-actuelment",
+          location: "Remote",
           description:
             "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
           color: "#9b1578",
@@ -406,8 +406,8 @@ const experience = {
           company: "FreeCopy Pvt. Ltd.",
           company_url: "https://www.linkedin.com/company/freecopy/about/",
           logo_path: "freecopy_logo.png",
-          duration: "Nov 2017 - Dec 2017",
-          location: "Ahmedabad, Gujarat",
+          duration: "Nov 2019",
+          location: "Remote",
           description:
             "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
           color: "#fc1f20",
@@ -519,7 +519,7 @@ const experience = {
 
 // Projets Page
 const projectsHeader = {
-  title: "Projects",
+  title: "Projets",
   description:
     "Permettez-moi de vous présenter mon projet passionnant qui allie innovation, créativité et expertise technique. Mon projet vise à [objectif principal du projet], en utilisant [méthodes ou technologies spécifiques] pour apporter une solution unique et efficace.",
   avatar_image_path: "projects_image.svg",
