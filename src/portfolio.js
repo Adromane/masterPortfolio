@@ -381,10 +381,10 @@ const experience = {
       experiences: [
         {
           title: "Front End et Backend Web Developer",
-          company: "Dev",
-          company_url: "https://www.devcom-guyane.fr/contact/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - actuelment",
+          company: "DEV.COM",
+          company_url: "https://www.codeur.com/-patrickv",
+          logo_path: "dev_logo.png",
+          duration: "DEV.COM-2012 - actuelment",
           location: "Remote",
           description:
             "Je suis constamment en train d'apprendre et de me former sur les dernières technologies front-end et back-end, pour rester à jour avec les meilleures pratiques de développement web.",
