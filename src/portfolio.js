@@ -382,7 +382,7 @@ const experience = {
         {
           title: "Front End et Backend Web Developer",
           company: "Dev",
-          company_url: "https://www.devcom-guyane.fr/contact/",
+          company_url: "https://www.codeur.com/-patrickv",
           logo_path: "dev_logo.png", 
           duration: "June 2020 - actuelment",
           location: "Remote",
