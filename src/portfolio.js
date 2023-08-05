@@ -381,11 +381,11 @@ const experience = {
       experiences: [
         {
           title: "Front End et Backend Web Developer",
-          company: "Dev",
+          company: "Codeur",
           company_url: "https://www.codeur.com/-patrickv",
-          logo_path: "dev_logo.png", 
-          duration: "June 2020 - actuelment",
-          location: "Remote",
+          logo_path: "codeur_logo.png", 
+          duration: "June 2023 - actuelment",
+          location: "Dakar",
           description:
             "Je suis constamment en train d'apprendre et de me former sur les dernières technologies front-end et back-end, pour rester à jour avec les meilleures pratiques de développement web.",
           color: "#0879bf",
