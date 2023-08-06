@@ -385,7 +385,7 @@ const experience = {
           company_url: "https://www.codeur.com/-patrickv",
           logo_path: "codeur_logo.png", 
           duration: "June 2023 - actuelment",
-          location: "Dakar", 
+          location: "Dakar",  
           description:
             "Je suis constamment en train d'apprendre et de me former sur les dernières technologies front-end et back-end, pour rester à jour avec les meilleures pratiques de développement web.",
           color: "#0879bf",
