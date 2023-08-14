@@ -370,7 +370,7 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Travail, stage et volontariat",
+  subtitle: "Travail",
   description:
     "Mon apprentissage autodidacte m'a permis de maîtriser diverses technologies, notamment [liste des technologies ou outils pertinents]. Travailler de manière autonome m'a permis de développer une discipline personnelle, de résoudre des problèmes par moi-même et d'approfondir mon savoir-faire technique...",
   header_image_path: "experience.svg",
@@ -393,8 +393,8 @@ const experience = {
         {
           title: "",
           company: "",
-          company_url: "",
-          logo_path: "muffito_logo.png",
+          company_url: "https://www.codeur.com/-patrickv",
+          logo_path: "codeur_logo.png",
           duration: "May 2020-actuelment",
           location: "Remote",
           description:
