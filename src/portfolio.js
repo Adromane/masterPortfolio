@@ -392,7 +392,7 @@ const experience = {
         },
         {
           title: "",
-          company: "",
+          company: "Codeur",
           company_url: "https://www.codeur.com/-patrickv",
           logo_path: "codeur_logo.png",
           duration: "May 2020-actuelment",
