@@ -394,7 +394,7 @@ const experience = {
           title: "",
           company: "",
           company_url: "",
-          logo_path: "muffito_logo.png",
+          logo_path: "codeur_logo.png",
           duration: "May 2020-actuelment",
           location: "Remote",
           description:
