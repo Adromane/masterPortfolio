@@ -393,7 +393,7 @@ const experience = {
         {
           title: "",
           company: "",
-          company_url: "",
+          company_url: "https://www.codeur.com/-patrickv",
           logo_path: "codeur_logo.png",
           duration: "June 2023 - actuelment",
           location: "Dakar",
