@@ -396,7 +396,7 @@ const experience = {
           company_url: "",
           logo_path: "codeur_logo.png",
           duration: "June 2023 - actuelment",
-          location: "Remote",
+          location: "Dakar",
           description:
             "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
           color: "#9b1578",
