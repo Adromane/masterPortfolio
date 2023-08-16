@@ -399,7 +399,7 @@ const experience = {
           duration: "May 2020-actuelment",
           location: "Dakar",
           description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+            "Je suis ravi de vous présenter mon projet passionnant qui est hébergé sur GitHub. Ce projet [nom du projet] représente mes efforts pour [objectif principal du projet], et vous pouvez explorer son code source complet et ses fonctionnalités sur mon dépôt GitHub.",
           color: "#9b1578",
         },
         {
