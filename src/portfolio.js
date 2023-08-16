@@ -404,7 +404,7 @@ const experience = {
         },
         {
           title: "Linkedin",
-          company: "FreeCopy Pvt. Ltd.",
+          company: "linkedin",
           company_url: "https://www.linkedin.com/company/freecopy/about/",
           logo_path: "freecopy_logo.png",
           duration: "Nov 2019",
