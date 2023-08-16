@@ -12,7 +12,7 @@ const openSource = {
 const query_pr = {
   query: `
 	query {
-	  user(login: "${openSource.githubUserName}"){
+	  user(login: "{
 	    pullRequests(last: 100, orderBy: {field: CREATED_AT, direction: DESC}){
       totalCount
       nodes{
@@ -49,7 +49,7 @@ const query_pr = {
 const query_issue = {
   query: `query{
 
-		user(login: "${openSource.githubUserName}") {
+		user(login: " {
     issues(last: 100, orderBy: {field:CREATED_AT, direction: DESC}){
       totalCount
       nodes{
@@ -84,7 +84,7 @@ const query_issue = {
 
 const query_org = {
   query: `query{
-	user(login: "${openSource.githubUserName}") {
+	user(login: " {
 	    repositoriesContributedTo(last: 100){
 	      totalCount
 	      nodes{
@@ -102,7 +102,7 @@ const query_org = {
 const query_pinned_projects = {
   query: `
 	query { 
-	  user(login: "${openSource.githubUserName}") { 
+	  user(login: " { 
 	    pinnedItems(first: 6, types: REPOSITORY) {
 	      totalCount
 	      nodes{
@@ -130,7 +130,7 @@ const baseUrl = "https://api.github.com/graphql";
 
 const headers = {
   "Content-Type": "application/json",
-  Authorization: "bearer " + openSource.githubConvertedToken,
+  Authorization: "bearer " 
 };
 
 fetch(baseUrl, {
