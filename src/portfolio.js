@@ -403,7 +403,7 @@ const experience = {
           color: "#9b1578",
         },
         {
-          title: "Android Developer",
+          title: "Linkedin",
           company: "FreeCopy Pvt. Ltd.",
           company_url: "https://www.linkedin.com/company/freecopy/about/",
           logo_path: "freecopy_logo.png",
