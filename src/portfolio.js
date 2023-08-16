@@ -394,7 +394,6 @@ const experience = {
           title: "Github",
           company: "Codeur",
           location: "Dakar",
-          title: "Codeur",
           company_url: "https://www.codeur.com/-patrickv",
           logo_path: "github_logo.png",
           duration: "May 2020-actuelment",
