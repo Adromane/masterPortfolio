@@ -391,7 +391,7 @@ const experience = {
           color: "#0879bf",
         },
         {
-          title: "Front End et Backend Web Developer",
+          title: "Github",
           company: "Codeur",
           location: "Dakar",
           title: "Codeur",
