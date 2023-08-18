@@ -408,7 +408,7 @@ const experience = {
           company_url: "https://www.linkedin.com/company/freecopy/about/",
           logo_path: "freecopy_logo.png",
           duration: "Nov 2019",
-          location: "Remote",
+          location: "Dakar",
           description:
             "Mon parcours professionnel se caractérise par [vos expériences marquantes], et je suis convaincu(e) que chaque défi est une opportunité d'apprendre et de grandir.",
           color: "#fc1f20",
