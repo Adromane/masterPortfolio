@@ -410,7 +410,7 @@ const experience = {
           duration: "Nov 2019",
           location: "Remote",
           description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+            "Mon parcours professionnel se caractérise par [vos expériences marquantes], et je suis convaincu(e) que chaque défi est une opportunité d'apprendre et de grandir.",
           color: "#fc1f20",
         },
       ],
