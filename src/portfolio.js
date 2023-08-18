@@ -396,7 +396,7 @@ const experience = {
           location: "Dakar",
           company_url: "https://github.com/Adromane",
           logo_path: "github_logo.png",
-          duration: "May 2020-actuelment",
+          duration: "May 2021-actuelment",
           location: "Dakar",
           description:
             "Je suis ravi de vous présenter mon projet passionnant qui est hébergé sur GitHub. Ce projet [nom du projet] représente mes efforts pour [objectif principal du projet], et vous pouvez explorer son code source complet et ses fonctionnalités sur mon dépôt GitHub.",
