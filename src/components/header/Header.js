@@ -85,8 +85,6 @@ class Header extends Component {
                 </NavLink>
               </li>
               <li>
-              </li>
-              <li>
                 <NavLink
                   to="/contact"
                   tag={Link}
