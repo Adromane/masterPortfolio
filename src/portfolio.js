@@ -360,8 +360,8 @@ const certifications = {
       
       logo_path: "stanford_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify22MTSSC5WDTM",
-      alt_name: "Stanford University",
+        "",
+      alt_name: "",
 
     },
   ],
