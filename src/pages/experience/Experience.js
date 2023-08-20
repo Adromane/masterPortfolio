@@ -20,7 +20,7 @@ import ExperienceImg from "./ExperienceImg";
 // 			experiences: [
 // 				{
 // 					title: "Front End et Backend Web Developer",
-// 					company: "Legato Health Technology",
+// 					company: "Codeur",
 // 					company_url: "https://legatohealthtech.com/",
 // 					logo_path: "legato_logo.png",
 // 					duration: "June 2020 - PRESENT",
