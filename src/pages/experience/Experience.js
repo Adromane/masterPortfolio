@@ -10,7 +10,7 @@ import ExperienceImg from "./ExperienceImg";
 
 // const experience = {
 // 	title: "Experience",
-// 	subtitle: "Work, Internship and Volunteership",
+// 	subtitle: "Travail"
 // 	description:
 // 		"Mon apprentissage autodidacte m'a permis de maîtriser diverses technologies, notamment [liste des technologies ou outils pertinents]. Travailler de manière autonome m'a permis de développer une discipline personnelle, de résoudre des problèmes par moi-même et d'approfondir mon savoir-faire technique...",
 // 	header_image_path: "experience.svg",
