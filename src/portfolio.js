@@ -361,7 +361,7 @@ const certifications = {
       logo_path: "stanford_logo.png",
       certificate_link:
         "",
-      alt_name: "",
+      alt_name: "Stanford University",
 
     },
   ],

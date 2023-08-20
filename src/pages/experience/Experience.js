@@ -16,7 +16,7 @@ import ExperienceImg from "./ExperienceImg";
 // 	header_image_path: "experience.svg",
 // 	sections: [
 // 		{
-// 			title: "Work",
+// 			title: "Travail",
 // 			experiences: [
 // 				{
 // 					title: "Associate AI Engineer",
