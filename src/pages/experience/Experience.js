@@ -22,7 +22,7 @@ import ExperienceImg from "./ExperienceImg";
 // 					title: "Front End et Backend Web Developer",
 // 					company: "Codeur",
 // 					company_url: "https://legatohealthtech.com/",
-// 					logo_path: "legato_logo.png",
+// 					logo_path: "codeur_logo.png",
 // 					duration: "June 2020 - PRESENT",
 // 					location: "Hyderabad, Telangana",
 // 					description: "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
