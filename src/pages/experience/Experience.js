@@ -23,7 +23,7 @@ import ExperienceImg from "./ExperienceImg";
 // 					company: "Codeur",
 // 					company_url: "https://legatohealthtech.com/",
 // 					logo_path: "codeur_logo.png",
-// 					duration: "June 2020 - PRESENT",
+// 					duration: "June 2023 - actuelment",
 // 					location: "Hyderabad, Telangana",
 // 					description: "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
 // 					color: "#0879bf"
