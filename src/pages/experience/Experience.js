@@ -10,7 +10,7 @@ import ExperienceImg from "./ExperienceImg";
 
 // const experience = {
 // 	title: "Experience",
-// 	subtitle: "Work, Internship and Volunteership",
+// 	subtitle: "Travail"
 // 	description:
 // 		"Mon apprentissage autodidacte m'a permis de maîtriser diverses technologies, notamment [liste des technologies ou outils pertinents]. Travailler de manière autonome m'a permis de développer une discipline personnelle, de résoudre des problèmes par moi-même et d'approfondir mon savoir-faire technique...",
 // 	header_image_path: "experience.svg",
@@ -19,11 +19,11 @@ import ExperienceImg from "./ExperienceImg";
 // 			title: "Travail",
 // 			experiences: [
 // 				{
-// 					title: "Associate AI Engineer",
-// 					company: "Legato Health Technology",
+// 					title: "Front End et Backend Web Developer",
+// 					company: "Codeur",
 // 					company_url: "https://legatohealthtech.com/",
-// 					logo_path: "legato_logo.png",
-// 					duration: "June 2020 - PRESENT",
+// 					logo_path: "codeur_logo.png",
+// 					duration: "June 2023 - actuelment",
 // 					location: "Hyderabad, Telangana",
 // 					description: "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
 // 					color: "#0879bf"
