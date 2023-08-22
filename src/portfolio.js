@@ -407,7 +407,6 @@ const experience = {
           company: "linkedin",
           company_url: "https://www.linkedin.com/company/freecopy/about/",
           logo_path: "Linkedink_logo.png",
-          duration: "Nov 2019-actuelment",
           location: "Dakar",
           description:
             "Mon parcours professionnel se caractérise par [vos expériences marquantes], et je suis convaincu(e) que chaque défi est une opportunité d'apprendre et de grandir.",
