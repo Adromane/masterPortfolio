@@ -54,7 +54,7 @@ export default class Main extends Component {
                 )}
               />
               <Route
-                path="/projects"
+                path="/Projects"
                 render={(props) => (
                   <Projects {...props} theme={this.props.theme} />
                 )}
