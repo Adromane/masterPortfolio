@@ -599,8 +599,8 @@ const contactPageData = {
     subtitle:
       "Fass Delorme, Dakar - SENEGAL",
     locality: "Kanodar",
-    country: "IN",
-    region: "Gujarat",
+    country: "SN",
+    region: "Dakar",
     postalCode: "385520",
     streetAddress: "Ambavadi vas",
     avatar_image_path: "address_image.svg",
