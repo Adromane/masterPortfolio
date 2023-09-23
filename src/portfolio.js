@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Je suis un(e) étudiant(e) passionné(e) à la recherche d'opportunités de stages pour acquérir une expérience pratique dans mon domaine d'intérêt. Bien que je n'aie pas encore d'expérience professionnelle formelle.",
   resumeLink:
-    "https://C:/Users/vieir/Downloads/CV-Patrik%20A.Vieira%20Gomes.pdf",
+    "https://mail.google.com/mail/u/0/#sent/QgrcJHrttjvpgjXqsHSdGRrCMwCvKBkzGwg?projector=1&messagePartId=0.1",
   portfolio_repository: "https://github.com/Adromane",
   githubProfile: "https://github.com/Adromane",
 };
