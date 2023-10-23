@@ -72,7 +72,7 @@ const socialMediaLinks = [
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
 ];
-
+ 
 const skills = {
   data: [
     {
