@@ -381,7 +381,7 @@ const experience = {
       experiences: [
         {
           title: "Front End et Backend Web Developer",
-          company: "Codeur",
+          company: "Instagram",
           company_url: "https://www.instagram.com",
           logo_path: "codeur_logo.png", 
           duration: "June 2023 - actuelment",
