@@ -382,7 +382,7 @@ const experience = {
         {
           title: "Front End et Backend Web Developer",
           company: "Codeur",
-          company_url: "https://www.codeur.com/-patrickv",
+          company_url: "https://www.instagram.com",
           logo_path: "codeur_logo.png", 
           duration: "June 2023 - actuelment",
           location: "Dakar",  
