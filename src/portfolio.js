@@ -383,7 +383,7 @@ const experience = {
           title: "Front End et Backend Web Developer",
           company: "Instagram",
           company_url: "https://www.instagram.com",
-          logo_path: "codeur_logo.png", 
+          logo_path: "Instagram_logo.png", 
           duration: "June 2023 - actuelment",
           location: "Dakar",  
           description:
